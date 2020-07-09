@@ -1,3 +1,3 @@
 # Demo
 
-Demo App
+Demo App.
